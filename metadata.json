@@ -1,0 +1,7 @@
+{
+  "name": "HD stor",
+  "description": "An AI-powered app store experience where you can explore existing apps and generate new app concepts dynamically using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
